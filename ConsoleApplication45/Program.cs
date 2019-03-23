@@ -10,6 +10,6 @@ namespace ConsoleApplication45
     {
         static void Main(string[] args)
         {
-        }
+            Console.WriteLine("hola mundo");      
     }
 }
